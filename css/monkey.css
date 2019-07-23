@@ -10,3 +10,13 @@ html {
 
 /* Write your solution here */
 
+
+@media (max-width: 1192px) and (min-width: 600px) {
+  #monkey {
+    top: -50px;
+  }
+}
+
+
+
+or the monkey, use a combination of min-width and max-width to set a media query that will allow the monkey to jump up over the Spice Girls from screen size of 406px to 1170px keeping him safe from their affection.
